@@ -4,7 +4,7 @@ const page = () => {
   return (
     <div>address page
      <blockquote>
-      <p className="flex gap-3 p-6 bg-black-400 text-lg font-medium ">
+      <p className="flex min-h-screen flex-col items-center justify-between p-24 text-lg font-medium ">
        I m from Rahim yar khan
 
       </p>
