@@ -5,7 +5,7 @@ const page = () => {
     <div>Home page
       <blockquote>
         <p className="flex min-h-screen flex-col items-center justify-between p-24 text-lg font-medium">
-
+         My home page
         </p>
       </blockquote>
     </div>
