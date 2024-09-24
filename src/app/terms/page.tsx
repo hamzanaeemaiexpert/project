@@ -9,6 +9,7 @@ export const page = () => {
             </p>
         </blockquote>
     </div>
+    
   )
 }
 
