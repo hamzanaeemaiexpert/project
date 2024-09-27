@@ -5,7 +5,7 @@ export const page = () => {
     <div>terms page
         <blockquote>
             <p className="flex min-h-screen flex-col items-center justify-between p-24 text-lg font-medium">
-              Allow only relevent contact
+              Allow only relevent contentt
             </p>
         </blockquote>
     </div>
